@@ -65,4 +65,4 @@ jobs:
           app-name: 'uqroo-control'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_72F8E5A8176A4F9AB203061A92FAF4A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6BB34A0B70C04E75B1937680ABD24E16 }}
